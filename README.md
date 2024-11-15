@@ -1,4 +1,5 @@
-https://github.com/InternLM/Tutorial
+书生大模型实战训练营
+>>> https://github.com/InternLM/Tutorial
 
 # Micro-Wheeled_leg-Robot
 > **The smallest two-wheeled-leg robot!**
